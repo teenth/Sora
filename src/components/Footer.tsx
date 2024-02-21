@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const navigation = {
   product: [
-    {name: 'SoraWebui', href: 'https://sorawebui.com'}
+    {name: 'SoraVideo', href: 'https://sora.genartcl.com'}
   ],
   legal: [
     {name: 'Privacy Policy', href: '/privacy-policy'},
@@ -29,7 +29,7 @@ export default function Footer({
                 src="/appicon.svg"
                 width={32}
                 height={32}
-                alt="Sorawebui.com"
+                alt="sora.genartcl.com"
               />
             </a>
             <p className="text-sm text-gray-300">

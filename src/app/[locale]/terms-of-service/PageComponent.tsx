@@ -36,19 +36,11 @@ const PageComponent = ({
           <h4 className={"text-white font-bold"}>{data('h4_4')}</h4>
           <p>{data('h4_4_p')}</p>
           <h4 className={"text-white font-bold"}>{data('h4_5')}</h4>
-          <p>
-            {data('h4_5_p')}<a
-            href={`https://whooper.ai/${locale}/privacy-policy`}
-            className={"text-white"}>https://sorawebui.com/privacy-policy</a>
-          </p>
           <h4 className={"text-white font-bold"}>{data('h4_6')}</h4>
           <p>{data('h4_6_p')}</p>
           <h4 className={"text-white font-bold"}>{data('h4_7')}</h4>
           <p>{data('h4_7_p')}</p>
           <h4 className={"text-white font-bold"}>{data('h4_8')}</h4>
-          <p>
-            {data('h4_8_p')}<a href="mailto:hello@sorawebui.com" className={"text-white"}>hello@sorawebui.com</a>.
-          </p>
         </div>
       </main>
       <Footer
